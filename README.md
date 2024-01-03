@@ -1,5 +1,5 @@
 # SQLProject_Apple_Store_Apps
-## Part 1: Exploratory data analysis using Guided video <br>
+## Part 1: Exploratory data analysis <br>
 
 **SQL USED:** I imported the data using [SQLite online](https://sqliteonline.com/) per the guided video of LoreSoWhat in YouTube.<br>
 **Queries:** I followed the SQL queries from the video [here](https://github.com/SandyGCabanes/SQLProject_Apple_Store_Apps/blob/main/LoreSoWhatCodeSQLite.sql)
