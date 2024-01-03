@@ -13,6 +13,6 @@ Further analysis of the Apps to beat based on previous exploratory analysis and 
 - If App developer still wants to develop games, what are the games to beat
   - based on paid, user_rating, cont_rating, etc.
 
-**SQL USED:** DB Browser for SQLite<br>
+**SQL USED:** [DB Browser for SQLite](https://sqlitebrowser.org/)<br>
 **Queries:** I created my own queries in this [sql file]( link ) <br>
 **Findings:** The sheet named "Non-Guided_SQL_Questions" has the outputs from the Queries I made. <br>
