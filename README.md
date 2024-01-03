@@ -7,4 +7,12 @@
 **DATA SOURCE:** Dataset link courtesy of LoreSoWhat [google drive folder](https://drive.google.com/drive/folders/14O9xB8N1gXN_67ouphImQkvpzyitmTfR) <br>
 
 ## Part 2: Exploratory data analysis using my own questions <br>
-To be continued...
+**USING MY OWN SQL QUESTIONS THAT SPARKED MY CURIOSITY**<br>
+Further analysis of the Apps to beat based on previous exploratory analysis and assumptions for the App Developer:
+- PAID apps that have top user ratings among top 5 categories from previous analysis
+- If App developer still wants to develop games, what are the games to beat
+  - based on paid, user_rating, cont_rating, etc.
+
+**SQL USED:** DB Browser for SQLite<br>
+**Queries:** I created my own queries in this [sql file]( link ) <br>
+**Findings:** The sheet named "Non-Guided_SQL_Questions" has the outputs from the Queries I made. <br>
