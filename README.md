@@ -16,3 +16,5 @@ Further analysis of the Apps to beat based on previous exploratory analysis and 
 **SQL USED:** [DB Browser for SQLite](https://sqlitebrowser.org/)<br>
 **Queries:** I created my own queries in this [sql file](https://github.com/SandyGCabanes/SQLProject_Apple_Store_Apps/blob/main/SandyDataAnalysisSQLite.sql) <br>
 **Findings:** The sheet named "Non-Guided_SQL_Questions" has the outputs from the Queries I made. [excel file - Click 'View raw' to Open the file online](https://github.com/SandyGCabanes/SQLProject_Apple_Store_Apps/blob/main/FindingsAppleSQL.xlsx) <br>
+
+Many thanks to **@LoreSoWhat** for encouraging us to **create our own queries** based on the queries that he started.  
