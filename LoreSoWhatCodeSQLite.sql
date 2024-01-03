@@ -62,7 +62,7 @@ select case
     when lang_num between 20 and 30 then 'bet 20 and 30' 
     when lang_num >30 then '> 30' 
     end as Num_lang_supported,
-    count (lang_num) as count_lang,
+    count (lang_num) as count_apps_lang,
     Avg(user_rating) as AvgRating
 from AppleStore
 Group by Num_lang_supported
